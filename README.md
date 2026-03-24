@@ -4,7 +4,7 @@
 
 ## Quick Start
 ```python
-from bgm_online.py import BackgammonOnline
+from bgm_online import BackgammonOnline
 
 client = BackgammonOnline()
 client.login_with_access_token("your_token_here")
